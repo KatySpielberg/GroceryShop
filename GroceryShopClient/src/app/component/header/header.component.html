@@ -1,0 +1,13 @@
+<div class="header">
+  <label for="startDate">From date:</label>
+  <input type="date" id="startDate" [(ngModel)]="startDate">
+
+  <label for="endDate">To date:</label>
+  <input type="date" id="endDate" [(ngModel)]="endDate">
+
+  <button (click)="applyFilter()">Filter</button>
+
+  <div *ngIf="isFilterApplied" class="current-range">
+    Current range: {{ startDate }} to {{ endDate }}
+  </div>
+</div>

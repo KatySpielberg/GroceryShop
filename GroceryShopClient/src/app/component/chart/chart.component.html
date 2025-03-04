@@ -1,0 +1,30 @@
+<div class="chart-container">
+  <canvas *ngIf="isFilterApplied && chartData.datasets.length > 0" baseChart
+    [data]="chartData"
+    [options]="chartOptions"
+    chartType="line">
+  </canvas>
+
+  <p *ngIf="isFilterApplied && chartData.datasets.length === 0" class="no-data">
+    ⚠ No data available for the selected date range.
+  </p>
+</div>
+
+<!-- <ngx-charts-line-chart
+  [view]="view"
+  [scheme]="colorScheme"
+  [results]="chartData"
+  [legend]="showLegend"
+  [xAxis]="showXAxis"
+  [yAxis]="showYAxis"
+  [autoScale]="autoScale"
+  [showGridLines]="showGridLines">
+</ngx-charts-line-chart> -->
+
+<!-- <div *ngIf="chartData.length">
+    <google-chart
+      [type]="chartType"
+      [data]="chartData"
+      [options]="chartOptions">
+    </google-chart>
+</div> -->

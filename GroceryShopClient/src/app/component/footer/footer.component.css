@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    text-align: center;    
+    gap: 10px;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    margin: 15px 0 15px 0;
+  }

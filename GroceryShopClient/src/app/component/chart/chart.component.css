@@ -1,0 +1,12 @@
+.chart-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .no-data {
+    font-size: 16px;
+    color: #e80d0d; 
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  

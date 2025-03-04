@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 15px;
+  }
+  
+  .header label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .header input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .header button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 7px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .header button:hover {
+    background: #0056b3;
+  }
+  
+  .current-range {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 10px;
+  }
