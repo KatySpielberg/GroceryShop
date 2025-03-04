@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\Ship4wd\\GroceryShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|c:\\git\\ship4wd\\groceryshopapi\\controllers\\shopdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|solutionrelative:controllers\\shopdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|c:\\git\\ship4wd\\groceryshopapi\\data\\mockdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|solutionrelative:data\\mockdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|c:\\git\\ship4wd\\groceryshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|c:\\git\\ship4wd\\groceryshopapi\\models\\shopdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF945F-6568-4BC0-9F7C-48DB0A0EBA54}|GroceryShopAPI.csproj|solutionrelative:models\\shopdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mockData.json",
+              "DocumentMoniker": "C:\\git\\Ship4wd\\GroceryShopAPI\\Data\\mockData.json",
+              "RelativeDocumentMoniker": "Data\\mockData.json",
+              "ToolTip": "C:\\git\\Ship4wd\\GroceryShopAPI\\Data\\mockData.json",
+              "RelativeToolTip": "Data\\mockData.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T23:48:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\Ship4wd\\GroceryShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\git\\Ship4wd\\GroceryShopAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:39:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopDataController.cs",
+              "DocumentMoniker": "C:\\git\\Ship4wd\\GroceryShopAPI\\Controllers\\ShopDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopDataController.cs",
+              "ToolTip": "C:\\git\\Ship4wd\\GroceryShopAPI\\Controllers\\ShopDataController.cs",
+              "RelativeToolTip": "Controllers\\ShopDataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:26:05.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopData.cs",
+              "DocumentMoniker": "C:\\git\\Ship4wd\\GroceryShopAPI\\Models\\ShopData.cs",
+              "RelativeDocumentMoniker": "Models\\ShopData.cs",
+              "ToolTip": "C:\\git\\Ship4wd\\GroceryShopAPI\\Models\\ShopData.cs",
+              "RelativeToolTip": "Models\\ShopData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:18:20.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
